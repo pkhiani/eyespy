@@ -5,3 +5,5 @@
 2. Enter user information
 3. Select desired break time
 4. View Eye Exercise video
+
+View project on: https://devpost.com/software/eyespy-fowtyn
