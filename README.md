@@ -5,8 +5,8 @@ EyeSpy is an application designed to reduce eye strain while looking at a comput
 
 **To run program:**
 1. Run executable file
-2. Enter user information
+2. Enter user information to create an account
 3. Select desired break time
-4. View Eye Exercise video popup
+4. View Eye Exercise video popup after timer expires
 
 View full project on [Devpost](https://devpost.com/software/eyespy-fowtyn)
