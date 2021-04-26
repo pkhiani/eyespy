@@ -9,4 +9,4 @@ EyeSpy is an application designed to reduce eye strain while looking at a comput
 3. Select desired break time
 4. View Eye Exercise video popup
 
-View project on [Devpost](https://devpost.com/software/eyespy-fowtyn)
+View full project on [Devpost](https://devpost.com/software/eyespy-fowtyn)
